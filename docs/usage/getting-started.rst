@@ -99,6 +99,7 @@ To get started, we'll add a ``cortex`` region, and populate it with a ``base_lay
       "base_layer": {
 				"type": "layer",
         "thickness": 100
+	"region":"cortex"
       }
     }
   }
